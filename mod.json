@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "bad_tr",
   "displayName": "Bad TR",
   "description": "Очень странный перевод для игры... \nГоворят он может убить...",
@@ -7,10 +6,4 @@
   "hidden": true,
   "version": "0.1-alpha",
   "minGameVersion": 115
-=======
-  "name": "Bad TR",
-  "author": "[#960e00]V[#1a27a1]andomas",
-  "description": "Очень странный перевод для игры... \nГоворят он может убить..\nПо всем вопросам насчёт перевода писать мне:\n DS: Vandomas#0001 \n VK: vk.com/vadflex",
-  "version": 2.4
->>>>>>> 5b44b53fb28b6c4ce4e4c1fcf1ebaf10d5132841
 }
